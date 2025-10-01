@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Descubre la Zona T y Zona Rosa de Bogotá: gastronomía, cultura, entretenimiento y compras en un solo lugar.">
+    <meta name="keywords" content="Zona T, Zona Rosa, Bogotá, gastronomía, cultura, entretenimiento, compras">
+    <title>Zona T & Zona Rosa Bogotá</title>
+    <style>
+        /* Estilos CSS aquí */
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Zona T & Zona Rosa Bogotá</h1>
+    <p>Gastronomía, cultura, entretenimiento y compras en un solo lugar</p>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="#gastronomia">Gastronomía</a></li>
+        <li><a href="#cultura">Cultura</a></li>
+        <li><a href="#entretenimiento">Entretenimiento</a></li>
+        <li><a href="#contacto">Contacto</a></li>
+    </ul>
+</nav>
+
+<section id="gastronomia">
+    <h2>Gastronomía</h2>
+    <p>Disfruta de una variedad de restaurantes y bares que ofrecen sabores locales e internacionales.</p>
+    <div class="imagenes">
+        <img src="ruta/a/imagen1.jpg" alt="Restaurante en Zona T">
+        <img src="ruta/a/imagen2.jpg" alt="Plato típico colombiano">
+        <img src="ruta/a/imagen3.jpg" alt="Bar en Zona Rosa">
+    </div>
+</section>
+
+<section id="cultura">
+    <h2>Cultura</h2>
+    <p>Explora galerías de arte, exposiciones y eventos culturales que reflejan el espíritu de Bogotá.</p>
+    <div class="imagenes">
+        <img src="ruta/a/imagen4.jpg" alt="Galería de arte en Zona Rosa">
+        <img src="ruta/a/imagen5.jpg" alt="Evento cultural en Zona T">
+    </div>
+</section>
+
+<section id="entretenimiento">
+    <h2>Entretenimiento</h2>
+    <p>Vive la vibrante vida nocturna con bares, discotecas y eventos en vivo.</p>
+    <div class="imagenes">
+        <img src="ruta/a/imagen6.jpg" alt="Vida nocturna en Zona T">
+        <img src="ruta/a/imagen7.jpg" alt="Concierto en Zona Rosa">
+    </div>
+</section>
+
+<section id="contacto">
+    <h2>Contacto</h2>
+    <p>Para más información sobre marketing turístico y contenidos, visita <strong>Andalucia Lab</strong>.</p>
+    <a href="https://www.andalucialab.com" target="_blank">Visitar Andalucia Lab</a>
+</section>
+
+<footer>
+    <p>&copy; 2025 Zona T & Zona Rosa Bogotá | Todos los derechos reservados</p>
+</footer>
+
+</body>
+</html>
